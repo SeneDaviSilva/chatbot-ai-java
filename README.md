@@ -20,7 +20,6 @@ chatbot-ai-java/
 ├─ target/ # Arquivos compilados
 └─ pom.xml # Configuração do Maven
 
-![Estrutura do Projeto](file:///mnt/data/edeba90a-54f0-4f0f-ba4e-acf45dd5545b.png)
 
 ## ⚡ Como Executar
 
