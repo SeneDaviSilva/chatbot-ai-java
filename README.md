@@ -24,15 +24,21 @@ Integração com APIs de IA (Hugging Face / modelos externos)
 📁 Estrutura do Projeto
 
 chatbot-ai-java
+
 • pom.xml — configuração do Maven
+
 • target/ — arquivos gerados após o build
 
 src/
+
 • main/java/com/chatbot/
+
    • App.java — classe principal
+   
    • HFClient.java — cliente que chama o modelo de IA
 
 • test/java/com/chatbot/
+
    • (testes automatizados)
 
 ---
