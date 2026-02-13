@@ -102,5 +102,7 @@ Endpoint REST usando Spring Boot
 
 Se quiser saber mais, fique à vontade para entrar em contato:
 
+https://www.linkedin.com/in/davi-sene888?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 Davi Sene
 🔗 GitHub: https://github.com/SeneDaviSilva
